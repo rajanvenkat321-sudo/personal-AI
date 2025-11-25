@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus AI - Unified Hub",
+  "description": "A centralized interface integrating specialized AI capabilities (Text, Image, Voice, Analysis) into a single orchestration layer using Google Gemini's multimodal models.",
+  "requestFramePermissions": []
+}
